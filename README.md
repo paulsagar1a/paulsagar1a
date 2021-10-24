@@ -17,6 +17,6 @@ Software Engineer
 
 
 
-[linkedin]: https://www.linkedin.com/in/sagar-paul-930b25150/
+[linkedin]: https://www.linkedin.com/in/paulsagar1a/
 [whatsapp]: https://wa.me/8927401400
 [Gmail]: mailto:paulsagar1a@gmail.com
