@@ -1,5 +1,5 @@
 
-### *Hi There <a href="#"><img width="30px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/wave.gif" /></a>,  I'm* Sagar Paul
+### *Hi There,  I'm* Sagar Paul
 
 
 Software Professional with strong aptitude for Coding, Debugging and Learning.
@@ -14,8 +14,7 @@ Software Professional with strong aptitude for Coding, Debugging and Learning.
 <br />
 
 
-<details>
-  <summary><b>My Skills:</b>&#x1f4c8; </summary>
+<b>*Skills:*</b>
   
   <b> </b> 
 <p align="center">
@@ -33,11 +32,7 @@ Software Professional with strong aptitude for Coding, Debugging and Learning.
 > Data Structures and Algorithm
   
 ```
- </p>  
-</details>
-
-<a href="#"><img width="100%" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/neon-line.gif" /></a>
-
+ </p>
  
 
 [linkedin]: https://www.linkedin.com/in/paulsagar1a
