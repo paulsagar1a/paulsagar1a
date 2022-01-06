@@ -9,7 +9,7 @@ Software Professional with strong aptitude for Coding, Debugging and Learning.
 
 
 [<img align="left" alt="Sagar | LinkedIn" width="22px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/linkedin.png" />][linkedin]
-[<img align="left" alt="Sagar | Whatsapp" height="22px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/whatsapp.png" />][whatsapp]
+[<img align="left" alt="Sagar | WhatsApp" height="22px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/whatsapp.png" />][whatsapp]
 [<img align="left" alt="Sagar | Gmail" height="22px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/gmail.png" />][gmail]
 <br />
 
@@ -33,12 +33,8 @@ Software Professional with strong aptitude for Coding, Debugging and Learning.
 > Data Structures and Algorithm
   
 ```
-  
-
-  
  </p>  
 </details>
-
 
 <a href="#"><img width="100%" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/neon-line.gif" /></a>
 
