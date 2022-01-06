@@ -5,7 +5,6 @@
 Software Professional with strong aptitude for Coding, Debugging and Learning.
 
 
-
 <b> *Connect With Me*: </b>
 
 
@@ -35,16 +34,15 @@ Software Professional with strong aptitude for Coding, Debugging and Learning.
   
 ```
   
+
   
-  
-</p>  
+ </p>  
 </details>
 
 
 <a href="#"><img width="100%" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/neon-line.gif" /></a>
 
-
-
+ 
 
 [linkedin]: https://www.linkedin.com/in/paulsagar1a/
 [whatsapp]: https://wa.me/918927401400?text=Hello%20Sagar
