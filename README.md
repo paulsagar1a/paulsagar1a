@@ -40,6 +40,6 @@ Software Professional with strong aptitude for Coding, Debugging and Learning.
 
  
 
-[linkedin]: https://www.linkedin.com/in/paulsagar1a/
+[linkedin]: https://www.linkedin.com/in/paulsagar1a
 [whatsapp]: https://wa.me/918927401400?text=Hello%20Sagar
 [gmail]: mailto:paulsagar1a@gmail.com
