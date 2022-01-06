@@ -14,7 +14,7 @@ Software Professional with strong aptitude for Coding, Debugging and Learning.
 <br />
 
 
-<b>*Skills:*</b>
+<b>*Skills*: </b>
   
 <b> </b> 
 
