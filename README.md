@@ -19,7 +19,7 @@ Software Professional with strong aptitude for Coding, Debugging and Learning.
 <b> </b> 
 
 
-```
+```go
 > Backend Technologies: Java, Spring Boot, Rest API, Web Service
 > Frontend Technologies: AngularJS, JavaScript, HTML, CSS
 > Databases: MySQL, MongoDB
