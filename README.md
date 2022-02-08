@@ -14,12 +14,12 @@ Software Professional with strong aptitude for Coding, Debugging and Learning.
 <br />
 
 
-<b>*Skills:*</b>
+<b>*Skills*: </b>
   
-  <b> </b> 
-<p align="center">
+<b> </b> 
 
- ```
+
+```go
 > Backend Technologies: Java, Spring Boot, Rest API, Web Service
 > Frontend Technologies: AngularJS, JavaScript, HTML, CSS
 > Databases: MySQL, MongoDB
@@ -30,9 +30,8 @@ Software Professional with strong aptitude for Coding, Debugging and Learning.
 > Cyber Security, Identity and Access Management
 > System Design
 > Data Structures and Algorithm
-  
 ```
- </p>
+ 
  
 
 [linkedin]: https://www.linkedin.com/in/paulsagar1a
