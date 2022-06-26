@@ -20,10 +20,10 @@ Software Professional with strong aptitude for Coding, Debugging and Learning.
 
 
 ```go
-> Backend Technologies: Java, Spring Boot, Rest API, Web Service
+> Backend Technologies:  Java, Spring Boot, Python, Apache Kafka, Lightstreamer, Rest API, Web Service
 > Frontend Technologies: AngularJS, JavaScript, HTML, CSS
-> Databases: MySQL, MongoDB
-> DevOps: Jenkins, GitHub, Azure, Build Automation, CI/CD
+> Databases:  MySQL, MongoDB, Elasticsearch, kdb+, MSSQL
+> DevOps: Docker, Jenkins, GitHub, Azure, Build Automation, CI/CD
 > Script: Bean Shell, PowerShell
 > Software and Server: SailPoint IIQ, Active Directory, Tomcat, Linux, Windows
 > Unit Testing: Junit, Mockito
